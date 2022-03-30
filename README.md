@@ -4,4 +4,4 @@
 
 In this project, I have used **MusicVAE - Variational Autoencoder** to build sequence of different notes and pitches.
 
-![Youtube link](https://youtu.be/oCJ20vFUSdE)
+Youtube link: https://youtu.be/oCJ20vFUSdE
